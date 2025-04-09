@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/css/main.11714c28.css",
-    "main.js": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/js/main.1041965e.js",
-    "static/js/453.ed3810f9.chunk.js": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/MursalinWithSemicolon/Dakpiyon-a-messenger/index.html",
-    "main.11714c28.css.map": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/css/main.11714c28.css.map",
-    "main.1041965e.js.map": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/js/main.1041965e.js.map",
-    "453.ed3810f9.chunk.js.map": "/MursalinWithSemicolon/Dakpiyon-a-messenger/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Dakpiyon-a-messenger/static/css/main.11714c28.css",
+    "main.js": "/Dakpiyon-a-messenger/static/js/main.4fd8e6e3.js",
+    "static/js/453.ed3810f9.chunk.js": "/Dakpiyon-a-messenger/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Dakpiyon-a-messenger/index.html",
+    "main.11714c28.css.map": "/Dakpiyon-a-messenger/static/css/main.11714c28.css.map",
+    "main.4fd8e6e3.js.map": "/Dakpiyon-a-messenger/static/js/main.4fd8e6e3.js.map",
+    "453.ed3810f9.chunk.js.map": "/Dakpiyon-a-messenger/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11714c28.css",
-    "static/js/main.1041965e.js"
+    "static/js/main.4fd8e6e3.js"
   ]
 }
